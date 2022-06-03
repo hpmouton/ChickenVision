@@ -1,9 +1,6 @@
 # *Your Project Description*
 ## *Short Project Description*
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others that will 
-follow in your foot steps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the developmemnt of this project.
+Computer Vision is increasingly being used as a tool for real-time poultry monitoring. In baby chicken farming, farmers have identified that upon collection of baby chicks they face two problems: difficulty to verify quantities of baby chicks ordered and determining the condition of baby chicks. This study proposes an image-based baby chick quantity estimation system. Using a mobile application to verify the quantities of baby chicks in a given box. K-Means algorithm was used to segment the baby chicks. Two convolutional neural networks were used to extract the features of both individual and grouped baby chicks. The YOLOv5 model outperformed the other models.  The contributions of this paper are as follows: (1) A public data-set consisting of baby chicks (2) A light-weight mobile-based algorithm to detect and estimate baby chicks from an image. Our proposed solution can be used to accurately estimate baby chicks. Therefore, alleviating the concerns of farmers.
 
 | Folder | Description |
 |---|---|
@@ -13,5 +10,5 @@ a better understanding of the problems you encountered during the developmemnt o
 | scr | Source code - create as many subdirectories as needed |
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Mentee's Name* - *University* - Mentee
+- *Supervisor Name* - Dr Lameck Amungongo
+- *Student Name* -  Hubert Patrick Mouton
