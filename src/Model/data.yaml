@@ -1,0 +1,6 @@
+train: C:\Users\USER\Desktop\Honours\RIT812S\ChickenVision\src\Model\train
+val: C:\Users\USER\Desktop\Honours\RIT812S\ChickenVision\src\Model\valid
+test: C:\Users\USER\Desktop\Honours\RIT812S\ChickenVision\src\Model\test
+
+nc: 2
+names: ['Chicken', 'box']
